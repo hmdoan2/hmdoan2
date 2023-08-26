@@ -7,7 +7,7 @@
 <h2>📖 Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [A+(In progress)]
+  - A+(In progress)
 
 <h2> 🤳 Connect with me:</h2>
 
