@@ -7,7 +7,7 @@
 <h2>📖 Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [A+ (In progress)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [A+(In progress)]()
 
 <h2> 🤳 Connect with me:</h2>
 
