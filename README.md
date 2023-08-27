@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Active Directory Home Lab](https://github.com/hmdoan2/ActiveDirectoryHomeLab)
  
 <h2>📖 Certifications:</h2>
 
