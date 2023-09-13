@@ -7,7 +7,8 @@
 <h2>📖 Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [A+](https://imgur.com/Slj913z)
+  - [CompTIA A+](https://imgur.com/Slj913z)
+  - CompTIA Sec+ [In Progress]
 
 <h2> 🤳 Connect with me:</h2>
 
